@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+<h3> Hi There! I'm a Android developer.✨ </h3>
+<p><a href="https://complex-macaroon-a78.notion.site/bbb92868e834413f9a9b1c15400beccf" target="_blank"><img src="https://img.shields.io/badge/BLOG-3178C6?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
-<!--
-**yunhyeonjin6/yunhyeonjin6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#
+<h3> Tech Stack </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+#
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yunhyeonjin6&show_icons=true&theme=transparent)
+
+</div>
+
+
+
